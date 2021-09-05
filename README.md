@@ -51,6 +51,6 @@ The model is deployed in three cloud services.
 
 [AWS](http://linearregressiondeploy-env.eba-9jdrquhj.eu-west-1.elasticbeanstalk.com)
 
-[Azure](https://linearregression-deploy.azurewebsites.net)
+[Azure](https://universityadmission.azurewebsites.net)
 
 [Heroku](https://linearregression-deploy.herokuapp.com)
