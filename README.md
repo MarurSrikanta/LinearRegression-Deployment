@@ -16,7 +16,9 @@ a) **Training Pipeline** which includes data preprocessing, selecting the right 
 
 
 
-b) 
+b) **Testing Pipeline** where the trained model is exposed as an API for user consumption. For prediction, the saved model is first loaded and predictions are made. The web app is deployed to cloud platform.
+
+![alt text](https://github.com/MarurSrikanta/LinearRegression-Deployment/blob/main/Images/Testing_Pipeline.png)
 
 **Deployment links are below:**
 
