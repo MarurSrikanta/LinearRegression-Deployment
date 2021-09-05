@@ -1,5 +1,7 @@
 
-Linear Regression Model for university admission prediction deployed on AWS, Azure and Heroku.
+# Linear Regression Model for university admission prediction deployed on AWS, Azure and Heroku.
+
+## Objective
 
 The model takes in GRE Score, TOEFL Score, University Rating, SOP Score, LOR Score and CGPA as inputs to predict the probability of a candidate getting university admission on percentage basis. 
 
