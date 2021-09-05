@@ -39,7 +39,8 @@ b) **Testing Pipeline** where the trained model is exposed as an API for user co
 
 ![alt text](https://github.com/MarurSrikanta/LinearRegression-Deployment/blob/main/Images/Testing_Pipeline.png)
 
-**Deployment links are below:**
+## Deployment links
+The model is deployed in three cloud services.
 
 [AWS](http://linearregressiondeploy-env.eba-9jdrquhj.eu-west-1.elasticbeanstalk.com)
 
