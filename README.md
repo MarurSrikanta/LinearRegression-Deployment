@@ -14,7 +14,9 @@ a) **Training Pipeline** which includes data preprocessing, selecting the right 
 ![alt text](https://github.com/MarurSrikanta/LinearRegression-Deployment/blob/main/Images/Training_Pipeline.png)
 
 
-
+## Data
+Data is available on Kaggle
+[Dataset](https://github.com/MarurSrikanta/LinearRegression-Deployment/tree/main/Data)
 
 b) **Testing Pipeline** where the trained model is exposed as an API for user consumption. For prediction, the saved model is first loaded and predictions are made. The web app is deployed to cloud platform.
 
