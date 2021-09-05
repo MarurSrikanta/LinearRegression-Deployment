@@ -9,7 +9,7 @@ The model takes in GRE Score, TOEFL Score, University Rating, SOP Score, LOR Sco
 ## Data
 [Dataset](https://github.com/MarurSrikanta/LinearRegression-Deployment/tree/main/Data) is available on Kaggle and the features are as below
 
-### GRE Score
+#### GRE Score
 float64, maximum value of 340
 
 **TOEFL Score:** float64, maximum value of 120
