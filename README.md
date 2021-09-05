@@ -10,6 +10,12 @@ The model takes in GRE Score, TOEFL Score, University Rating, SOP Score, LOR Sco
 ## Application Design
 Once the data source is fixed, the approach consists of two pipelines:
 a) **Training Pipeline** which includes data preprocessing, selecting the right algorithm for creating machine learning model, checking accuracy of model and saving the model
+
+![alt text](https://github.com/MarurSrikanta/LinearRegression-Deployment/blob/main/Images/Training_Pipeline.png)
+
+
+
+
 b) 
 
 **Deployment links are below:**
